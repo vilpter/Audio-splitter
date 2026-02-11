@@ -1,0 +1,52 @@
+{
+  "splits": [
+    {
+      "start": "00:00:00",
+      "end": "00:03:45",
+      "title": "Opening Movement",
+      "artist": "Orchestra Ensemble",
+      "album": "Classical Collection Vol. 1",
+      "album_artist": "Various Artists",
+      "year": "2024",
+      "composer": "Johann Sebastian Bach",
+      "genre": "Classical",
+      "performer": "Berlin Philharmonic",
+      "publisher": "Deutsche Grammophon",
+      "catalog_number": "DG-479-0234",
+      "disc_number": "1",
+      "total_discs": "2",
+      "isrc": "DEBG01400001",
+      "copyright": "℗ 2024 Deutsche Grammophon",
+      "comment": "Recorded live at Berlin Konzerthaus"
+    },
+    {
+      "start": "00:03:45",
+      "duration": "00:04:20",
+      "title": "Adagio",
+      "artist": "Orchestra Ensemble",
+      "album": "Classical Collection Vol. 1",
+      "album_artist": "Various Artists",
+      "year": "2024",
+      "composer": "Johann Sebastian Bach",
+      "genre": "Classical",
+      "performer": "Berlin Philharmonic",
+      "publisher": "Deutsche Grammophon",
+      "catalog_number": "DG-479-0234",
+      "disc_number": "1",
+      "total_discs": "2",
+      "isrc": "DEBG01400002"
+    },
+    {
+      "start": "00:08:05",
+      "end": "00:12:30",
+      "title": "Allegro Finale",
+      "artist": "Orchestra Ensemble",
+      "album": "Classical Collection Vol. 1",
+      "composer": "Johann Sebastian Bach"
+    },
+    {
+      "start": "00:12:30",
+      "title": "Bonus Track - Minimal Metadata Example"
+    }
+  ]
+}
